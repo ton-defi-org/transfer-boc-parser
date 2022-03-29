@@ -1,7 +1,7 @@
 {
-  "name": "boc-parser",
+  "name": "transfer-boc-parser",
   "version": "0.1.0",
-  "homepage": "https://orbs-network.github.io/boc-parser",
+  "homepage": "https://ton-defi-org.github.io/transfer-boc-parser/",
   "dependencies": {
     "bignumber.js": "^9.0.2",
     "buffer": "6.x",
